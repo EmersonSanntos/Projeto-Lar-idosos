@@ -6,19 +6,11 @@
 
 header{
     width: 100%;
-    background-color: #008B8B;
+    background-color: #b55de8c4;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px 0;
-
-}
-
-.logo-imagem{
-    width: 50px;
-    height: 50px;
-    border-radius: 25px;
-    background-color: #008B8B;
+    padding: 10px 0;
 
 }
 
@@ -29,7 +21,7 @@ header{
 }
 
 .logo-texto{
-    margin-left: 40px;
+    margin-left: 30px;
 
 }
 
